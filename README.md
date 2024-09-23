@@ -14,7 +14,6 @@ Meu nome é Andrey Honorato
 
 
 
-![](https://media1.tenor.com/m/8ctGtM0JDmUAAAAC/marvel-avengers.gif)
 
 
    
