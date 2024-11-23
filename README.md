@@ -3,7 +3,7 @@
 Meu nome é Andrey Honorato 
 
 - Estou estudadando na [Alura](https://www.alura.com.br) 
-- Estou me dansenvoledo na linguagem JaVaScrip
+- Estou na linguagem JaVaScrip
 - Utilizo esse espaço para minha organização e compartimento dos meus projetos desenvolvidos
   
   ## você ## entra em contato comigo 📭
